@@ -11,4 +11,6 @@ A simple voting system application built from scratch by Python.
 
 It needs python, pip to run. Install requirements and download :  [PhantomJS](https://phantomjs.org/download.html) &  [Chromedriver](https://chromedriver.chromium.org/downloads)
 
- :sparkles: pip install -r requirements.txt
+:sparkles: Run pip install -r requirements.txt to install dependencies
+
+:sparkles: Run python voting_system.py
